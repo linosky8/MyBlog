@@ -1,0 +1,188 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = App.Hosting
+build_property.RootNamespace = App.Hosting
+build_property.ProjectDir = C:\Users\23316\Source\Repos\Blog\src\App.Hosting\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\23316\Source\Repos\Blog\src\App.Hosting
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Article/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xBcnRpY2xlXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xBcnRpY2xlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Banner/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xCYW5uZXJcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Banner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xCYW5uZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Category/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xDYXRlZ29yeVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/FriendLink/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xGcmllbmRMaW5rXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/FriendLink/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xGcmllbmRMaW5rXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Notice/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xOb3RpY2VcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Notice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xOb3RpY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/QQUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xRUVVzZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Tags/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xUYWdzXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/Tags/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xUYWdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/TimeLine/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xUaW1lTGluZVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/TimeLine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xUaW1lTGluZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/BlogManage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ01hbmFnZVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/Main/Views/Home/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xIb21lXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/Main/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/Main/Views/Home/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xIb21lXEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/Main/Views/Home/Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xIb21lXFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/Main/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xMb2dpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/Main/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFpblxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/SystemManage/Views/Button/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtTWFuYWdlXFZpZXdzXEJ1dHRvblxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/SystemManage/Views/Button/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtTWFuYWdlXFZpZXdzXEJ1dHRvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/SystemManage/Views/Module/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtTWFuYWdlXFZpZXdzXE1vZHVsZVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/SystemManage/Views/Module/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtTWFuYWdlXFZpZXdzXE1vZHVsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/SystemManage/Views/Permission/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtTWFuYWdlXFZpZXdzXFBlcm1pc3Npb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/SystemManage/Views/Role/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtTWFuYWdlXFZpZXdzXFJvbGVcRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/SystemManage/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtTWFuYWdlXFZpZXdzXFJvbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/SystemManage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3lzdGVtTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/UserManage/Views/User/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlck1hbmFnZVxWaWV3c1xVc2VyXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/UserManage/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlck1hbmFnZVxWaWV3c1xVc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/UserManage/Views/User/Reset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlck1hbmFnZVxWaWV3c1xVc2VyXFJlc2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Areas/UserManage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlck1hbmFnZVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/Article/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/Article/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/Home/TimeLine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaW1lTGluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/Home/Works.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXb3Jrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/Shared/_AminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/23316/Source/Repos/Blog/src/App.Hosting/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
